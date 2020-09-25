@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My blog
+title: Nguyen The Phan
 email: 18020992@vnu.edu.vn
 description: >- # this means to ignore newlines until "baseurl:"
- empty!!!
+Vietnam National University-Univerity of Engineer and Technology
 url: "https://github.com/thephann" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: thephann
+
 
 # Build settings
 theme: minima
